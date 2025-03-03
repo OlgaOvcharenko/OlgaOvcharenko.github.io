@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : 
 title_separator          : "-"
 name                     : &name "Olga Ovcharenko"
-description              : &description "Graduate student st ETH Zurich"
+description              : &description "Graduate student st  Zurich"
 url                      : https://olgaovcharenko.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "OlgaOvcharenko/olgaovcharenko.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Olga Ovcharenko"
   avatar           : "st_pic.png"
-  bio              : "Graduate student at ETH Zurich"
-  location         : "Zurich, Switzerland"
+  bio              : "Ph.D. at TU berlin"
+  location         : "Berlin, Germany"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=JnbLQ6wAAAAJ&hl=en"

@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+Olga Ovcharenko is a Ph.D. student in the [DEEM Lab](https://deem.berlin) that is led by [Prof. Sebastian Schelter](https://deem.berlin/#professor). Olga acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
 In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
 Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
 In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
@@ -39,7 +39,8 @@ SIGMOD 2021.
 
 Work Experience
 ======
-- Research Assistant (BoevaLab) - [ETH Zurich](https://ethz.ch/de.html). Dec 2024 - present
+- Research Assistant (Ph.D.) at [DEEM Lab](https://deem.berlin) - [TU Berlin](https://www.tu.berlin). Mar 2025 - present
+- Research Assistant at [BoevaLab](http://boevalab.inf.ethz.ch) - [ETH Zurich](https://ethz.ch/de.html). Dec 2024 - Mar 2025
 - Teaching Assistant (Data Modeling and Databases) - [ETH Zurich](https://ethz.ch/de.html). Feb - Aug 2023 
 - Teaching Assistant (Quality Assurance in Software Development) - [TU Graz](https://www.tugraz.at/home/). Feb - Jul 2022 
 - Undergraduate Research Assistant - [TU Graz](https://www.tugraz.at/home/). Jul 2020 - Aug 2022
