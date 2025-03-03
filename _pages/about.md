@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko is a Ph.D. student in the [DEEM Lab](https://deem.berlin) that is led by [Prof. Sebastian Schelter](https://deem.berlin/#professor). Olga acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+Olga Ovcharenko is a Ph.D. student at the [DEEM Lab](https://deem.berlin) ([BIFOLD](https://www.bifold.berlin), [TU Berlin](https://www.tu.berlin)) that is led by [Prof. Sebastian Schelter](https://deem.berlin/#professor). Olga acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
 In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
 Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
 In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
