@@ -19,9 +19,13 @@ Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf
 
 Publications
 ======
+### 2025 
+Stefan Grafberger, Hao Chen, **Olga Ovcharenko**, Sebastian Schelter: Towards Regaining Control over Messy ML Pipelines [[paper]](). ICDE [DAIS Workshop](https://dais-workshop-icde.github.io) 2025.
+
+
 ### 2024 
 
-Philip Toma, **Olga Ovcharenko**, Imant Daunhawer, Julia E. Vogt, Florian Barkmann, Valentina Boeva: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](https://www.biorxiv.org/content/10.1101/2024.11.04.620867v1.full.pdf) [[poster]](poster.pdf). NeurIPS [SSL Workshop](https://sslneurips2024.github.io) 2024.
+Philip Toma, **Olga Ovcharenko**, Imant Daunhawer, Julia E. Vogt, Florian Barkmann, Valentina Boeva: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](2024.11.04.620867v1.full.pdf) [[poster]](poster.pdf). NeurIPS [SSL Workshop](https://sslneurips2024.github.io) 2024.
 
 **Olga Ovcharenko**, Rita Sevastjanova, Valentina Boeva: FeatureClock: High-Dimensional Effects in Two-Dimensional Plots [[library]](https://pypi.org/project/feature-clock/) [[paper]](https://arxiv.org/abs/2408.01294) [[slides]](FeatureClock.pdf). IEEE VIS 2024.
 
@@ -58,3 +62,4 @@ Other
 ======
 - PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
 - Reproducibility reviewer SIGMOD 2024
+- VLDB 2026 Shadow PC
