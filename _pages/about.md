@@ -21,7 +21,7 @@ Publications
 ======
 ### 2025 
 
-**Olga Ovcharenko**, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Florian Barkmann, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data. [[paper]](). Preprint.
+**Olga Ovcharenko**, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Florian Barkmann, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data. [[paper]](). ICML 2025. ***Spotlight***.
 
 Stefan Grafberger, Hao Chen, **Olga Ovcharenko**, Sebastian Schelter: Towards Regaining Control over Messy ML Pipelines [[paper]](https://deem.berlin/pdf/dais-lester.pdf). ICDE [DAIS Workshop](https://dais-workshop-icde.github.io) 2025.
 
