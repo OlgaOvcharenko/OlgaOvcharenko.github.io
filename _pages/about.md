@@ -12,7 +12,7 @@ Olga Ovcharenko is a Ph.D. student at the [DEEM Lab](https://deem.berlin) ([BIFO
 In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
 Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
 In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
-Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
+Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html), Prof. [Matthias Boehm](https://mboehm7.github.io/), Prof. [Julia Vogt](https://mds.inf.ethz.ch/team/detail/julia-vogt/), and Prof. [Theodoros (Theo) Rekatsinas](https://thodrek.github.io).
 <!-- Currently, Olga is working on her semester project with Prof. [Valentina Boeva](http://boevalab.inf.ethz.ch/contacts.html). -->
 
 <!-- As a continuation of her research work, Olga is currently collaborating with [Prof. Theodoros (Theo) Rekatsinas](https://thodrek.github.io) in the Systems Lab at ETH Zurich.  -->
@@ -63,8 +63,14 @@ Education
 - Bachelor of Science, Computer Science at [Graz University of Technology](https://www.tugraz.at/home/), 2019 - 2022
   - Thesis: Large-scale Data Generation for Benchmarking Data Cleaning Tools [[thesis]](https://github.com/OlgaOvcharenko/BT_Doc/blob/main/OlgaOvcharenko_BT.pdf)
 
+
+Reviewing
+======
+- [Shadow Program Committee](https://vldb.org/2026/shadow-pc.html). VLDB 2026.
+- Reviewer. ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
+- [Availability and Reproducibility Reviewer](https://reproducibility.sigmod.org/2024/index.html) SIGMOD 2024.
+
+
 Other
 ======
 - PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
-- Reproducibility reviewer SIGMOD 2024
-- VLDB 2026 Shadow PC
