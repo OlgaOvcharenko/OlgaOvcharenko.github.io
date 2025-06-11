@@ -23,7 +23,7 @@ Publications
 
 **Olga Ovcharenko**, Sebastian Schelter: Towards Cross-Modal Error Detection with Tables and Images [[paper]](https://openreview.net/forum?id=JJYHbU9ul0&referrer=%5BAuthor%20Console%5D(%2Fgroup%3Fid%3DICML.cc%2F2025%2FWorkshop%2FDataWorld%2FAuthors%23your-submissions)). ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
 
-**Olga Ovcharenko**, Florian Barkmann, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](_publications/icml2025_bench.pdf). ICML 2025. *Spotlight*.
+**Olga Ovcharenko**, Florian Barkmann, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](icml2025_bench.pdf). ICML 2025. *Spotlight*.
 
 Stefan Grafberger, Hao Chen, **Olga Ovcharenko**, Sebastian Schelter: Towards Regaining Control over Messy ML Pipelines [[paper]](https://deem.berlin/pdf/dais-lester.pdf). ICDE [DAIS Workshop](https://dais-workshop-icde.github.io) 2025.
 
