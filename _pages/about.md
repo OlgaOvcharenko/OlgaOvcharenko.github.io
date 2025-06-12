@@ -21,7 +21,7 @@ Publications
 ======
 ### 2025 
 
-**Olga Ovcharenko**, Sebastian Schelter: Towards Cross-Modal Error Detection with Tables and Images [[paper]](_DataWorld_ICML_25__Merit-3.pdf). ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
+**Olga Ovcharenko**, Sebastian Schelter: Towards Cross-Modal Error Detection with Tables and Images [[paper]](MERIT.pdf). ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
 
 **Olga Ovcharenko**, Florian Barkmann, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](icml2025_bench.pdf). ICML 2025. *Spotlight*.
 
