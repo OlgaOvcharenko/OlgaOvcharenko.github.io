@@ -21,6 +21,8 @@ Publications
 ======
 ### 2025 
 
+Pierre Lubitzsch, **Olga Ovcharenko**, Hao Chen, Maarten de Rijke, Sebastian Schelter: Towards a Real-World Aligned Benchmark for Unlearning in Recommender Systems [[paper]](https://arxiv.org/pdf/2508.17076). RecSys [FAccTRec](https://facctrec.github.io/facctrec2025/) 2025.
+
 **Olga Ovcharenko**, Sebastian Schelter: Towards Cross-Modal Error Detection with Tables and Images [[paper]](MERIT.pdf). ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
 
 **Olga Ovcharenko**, Florian Barkmann, Philip Toma, Imant Daunhawer, Julia E. Vogt, Sebastian Schelter, Valentina Boeva: scSSL-Bench: Benchmarking Self-Supervised Learning for Single-Cell Data [[paper]](icml2025_bench.pdf). ICML 2025. *Spotlight*.
