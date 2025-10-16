@@ -68,9 +68,11 @@ Education
 
 Reviewing
 ======
+- [Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home). EurIPS 2025.
+- [Workshop on Multimodal Representation Learning for Healthcare](https://multimodal-rep-learning-for-health.github.io). EurIPS 2025.
 - [Shadow Program Committee](https://vldb.org/2026/shadow-pc.html). VLDB 2026.
-- Reviewer. ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
-- [Availability and Reproducibility Reviewer](https://reproducibility.sigmod.org/2024/index.html) SIGMOD 2024.
+- [DataWorld Workshop](https://dataworldicml2025.github.io). ICML 2025.
+- [Availability and Reproducibility Reviewer](https://reproducibility.sigmod.org/2024/index.html). SIGMOD 2024.
 
 
 Other
