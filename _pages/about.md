@@ -21,6 +21,8 @@ Publications
 ======
 ### 2025 
 
+Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[preprint]](https://arxiv.org/abs/2511.01716).
+
 Pierre Lubitzsch, **Olga Ovcharenko**, Hao Chen, Maarten de Rijke, Sebastian Schelter: Towards a Real-World Aligned Benchmark for Unlearning in Recommender Systems [[paper]](https://arxiv.org/pdf/2508.17076). RecSys [FAccTRec](https://facctrec.github.io/facctrec2025/) 2025.
 
 **Olga Ovcharenko**, Sebastian Schelter: Towards Cross-Modal Error Detection with Tables and Images [[paper]](MERIT.pdf). ICML [DataWorld Workshop](https://dataworldicml2025.github.io) 2025.
