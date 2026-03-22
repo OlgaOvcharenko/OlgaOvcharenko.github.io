@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Olga Ovcharenko is a Ph.D. student at the [DEEM Lab](https://deem.berlin) ([BIFOLD](https://www.bifold.berlin), [TU Berlin](https://www.tu.berlin)) that is led by [Prof. Sebastian Schelter](https://deem.berlin/#professor). Olga acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
+Olga Ovcharenko is a second-year Ph.D. student at the [DEEM Lab](https://deem.berlin) ([BIFOLD](https://www.bifold.berlin), [TU Berlin](https://www.tu.berlin)) that is led by [Prof. Sebastian Schelter](https://deem.berlin/#professor). Olga acquired her Data Science master's degree from [ETH Zurich](https://ethz.ch/de.html), Switzerland. 
 In her master thesis, Olga focused on multi-modal single-cell data integration using self-supervised learning.
 Olga’s interest in data science started during her undergraduate studies at [Graz University of Technology](https://www.tugraz.at/home/), Austria. 
 In her bachelor thesis, Olga built a distributed data generator to scale real datasets preserving statistics and error distribution of the original data.
@@ -19,9 +19,12 @@ Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf
 
 Publications
 ======
-### 2025 
 
-Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[preprint]](https://arxiv.org/abs/2511.01716).
+**Olga Ovcharenko**, Matthias Boehm, Sebastian Schelter: SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines. [[preprint]](https://arxiv.org/abs/2602.05134).
+
+Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB 2026](https://vldb.org/2026/).
+
+### 2025 
 
 Pierre Lubitzsch, **Olga Ovcharenko**, Hao Chen, Maarten de Rijke, Sebastian Schelter: Towards a Real-World Aligned Benchmark for Unlearning in Recommender Systems [[paper]](https://arxiv.org/pdf/2508.17076). RecSys [FAccTRec](https://facctrec.github.io/facctrec2025/) 2025.
 
@@ -70,6 +73,8 @@ Education
 
 Reviewing
 ======
+- [Reviewer](https://vldb.org/2027). VLDB 2027.
+- [Reviewer](https://icml.cc). ICML 2026.
 - [Workshop on AI for Tabular Data](https://sites.google.com/view/eurips25-ai-td/home). EurIPS 2025.
 - [Workshop on Multimodal Representation Learning for Healthcare](https://multimodal-rep-learning-for-health.github.io). EurIPS 2025.
 - [Shadow Program Committee](https://vldb.org/2026/shadow-pc.html). VLDB 2026.
