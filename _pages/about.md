@@ -20,9 +20,11 @@ Olga worked on diverse projects with Prof. [Valentina Boeva](http://boevalab.inf
 Publications
 ======
 
+### 2026 
+
 **Olga Ovcharenko**, Matthias Boehm, Sebastian Schelter: SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines. [[preprint]](https://arxiv.org/abs/2602.05134).
 
-Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB 2026](https://vldb.org/2026/).
+Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB](https://vldb.org/2026/) 2026.
 
 ### 2025 
 
