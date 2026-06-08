@@ -22,14 +22,15 @@ Publications
 
 ### 2026 
 
-Luciano Duarte, **Olga Ovcharenko**, Sebastian Schelter: ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset. [[HuggingFace]](https://huggingface.co/datasets/deem-data/ArtiFact)[[paper]]().
+Luciano Duarte, **Olga Ovcharenko**, Sebastian Schelter: ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset. [[HuggingFace]](https://huggingface.co/datasets/deem-data/ArtiFact)[[preprint]]().
+
+Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB](https://vldb.org/2026/) 2026.
 
 
-**Olga Ovcharenko**, Luciano Duarte, Sebastian Schelter: SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines. [[video]](https://deem.berlin/video/sempiper.mp4)[[code]](https://github.com/OlgaOvcharenko/sempiper)[[paper]]().
+**Olga Ovcharenko**, Luciano Duarte, Sebastian Schelter: SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines. [[video]](https://deem.berlin/video/sempiper.mp4)[[code]](https://github.com/OlgaOvcharenko/sempiper)[[paper]](). [VLDB](https://vldb.org/2026/) Demo 2026.
 
 **Olga Ovcharenko**, Matthias Boehm, Sebastian Schelter: SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines. [[preprint]](https://arxiv.org/abs/2602.05134).
 
-Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB](https://vldb.org/2026/) 2026.
 
 ### 2025 
 
