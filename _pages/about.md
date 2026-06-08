@@ -22,6 +22,11 @@ Publications
 
 ### 2026 
 
+Luciano Duarte, **Olga Ovcharenko**, Sebastian Schelter: ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset. [[HuggingFace]](https://huggingface.co/datasets/deem-data/ArtiFact)[[paper]]().
+
+
+**Olga Ovcharenko**, Luciano Duarte, Sebastian Schelter: SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines. [[video]](https://deem.berlin/video/sempiper.mp4)[[code]](https://github.com/OlgaOvcharenko/sempiper)[[paper]]().
+
 **Olga Ovcharenko**, Matthias Boehm, Sebastian Schelter: SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines. [[preprint]](https://arxiv.org/abs/2602.05134).
 
 Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB](https://vldb.org/2026/) 2026.
@@ -84,6 +89,12 @@ Reviewing
 - [Availability and Reproducibility Reviewer](https://reproducibility.sigmod.org/2024/index.html). SIGMOD 2024.
 
 
+Invited Talks
+======
+- [NHR4CES Community Workshop 2026](https://www.nhr4ces.de/2026/05/26/nhr4ces-community-workshop-2026/). SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines.[[talk]](https://tu-darmstadt.cloud.panopto.eu/Panopto/Pages/Viewer.aspx?id=c9344ea1-2d4a-4fb5-acf1-b459009f6831)[[slides]](https://www.nhr4ces.de/app/uploads/2026/05/SemPipes_NHR4CES.pdf)
+
+
 Other
 ======
+- ICML 2026 Golden Reviewer.
 - PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
