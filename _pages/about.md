@@ -22,7 +22,7 @@ Publications
 
 ### 2026 
 
-**Olga Ovcharenko**, Luciano Duarte, Sebastian Schelter: SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines. [[video]](https://deem.berlin/video/sempiper.mp4)[[code]](https://github.com/OlgaOvcharenko/sempiper)[[paper]](). [VLDB](https://vldb.org/2026/) Demo 2026.
+**Olga Ovcharenko**, Luciano Duarte, Sebastian Schelter: SemPiper: Interactive Code Synthesis for Semantic Operators in Machine Learning Pipelines. [[video]](https://deem.berlin/video/sempiper.mp4)[[code]](https://github.com/OlgaOvcharenko/sempiper)[[paper]](https://arxiv.org/pdf/2606.14361). [VLDB](https://vldb.org/2026/) Demo 2026.
 
 **Olga Ovcharenko**, Matthias Boehm, Sebastian Schelter: SemPipes - Optimizable Semantic Data Operators for Tabular Machine Learning Pipelines. [[preprint]](https://arxiv.org/abs/2602.05134).
 
