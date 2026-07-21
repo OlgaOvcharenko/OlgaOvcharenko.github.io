@@ -28,7 +28,7 @@ Publications
 
 Jiale Lao, Andreas Zimmerer, **Olga Ovcharenko**, Tianji Cong, Matthew Russo, Gerardo Vitagliano, Michael Cochez, Fatma Özcan, Gautam Gupta, Thibaud Hottelier, H. V. Jagadish, Kris Kissel, Sebastian Schelter, Andreas Kipf, Immanuel Trummer: SemBench: A Benchmark for Semantic Query Processing Engines. [[paper]](https://arxiv.org/abs/2511.01716). [VLDB](https://vldb.org/2026/) 2026.
 
-Luciano Duarte, **Olga Ovcharenko**, Sebastian Schelter: ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset. [[HuggingFace]](https://huggingface.co/datasets/deem-data/ArtiFact)[[preprint]]().
+Luciano Duarte, **Olga Ovcharenko**, Sebastian Schelter: ArtiFact: A Large-Scale Multi-Modal Cultural Heritage Dataset. [[HuggingFace]](https://huggingface.co/datasets/deem-data/ArtiFact)[[paper]](https://arxiv.org/pdf/2606.09648). VLDB [NOVAS Workshop](https://www.novasworkshop.org/accepted-papers) 2025.
 
 
 ### 2025 
@@ -96,5 +96,6 @@ Invited Talks
 
 Other
 ======
+- Software Campus 2026 funding.
 - ICML 2026 Golden Reviewer.
 - PMC member of [Apache SystemDS](https://systemds.apache.org/), an open-source ML system for the end-to-end data science lifecycle.
